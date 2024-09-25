@@ -39,6 +39,7 @@ By adding new fasta files to the Human folder, we will repeat all the actions fr
 From the tree, it can be seen that the most recent Neanderthal in the dataset is KX198087.1 (GoyetQ305-4 Neanderthal).
 Repeating the actions from point 2, but with the script Neanderthal_age.ipynb (located in the Code folder) for KX198087.1, we obtain the following data, which is also close to reality:
 
+| Metric                              | Value          |
 |-------------------------------------|----------------|
 | Maximum number of mutations          | 213            |
 | Estimated age of the most recent Neanderthal | 426,000 years  |
