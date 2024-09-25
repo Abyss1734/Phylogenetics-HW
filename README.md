@@ -1,2 +1,2 @@
-# Phylogenetics-HW
-Phylogenetics HW
+# How humans populated the Earth 
+
