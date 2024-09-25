@@ -55,7 +55,7 @@ Taking mitochondrial genome data from a random person from GeneBank (HM156694.1)
 
 From it, it is clear that the person belongs to the same haplogroup as KY686209.1 (M60), KP172432.1 (D1) and JN084079.1 (D4e1a1). Presumably, this person belongs to the D-haplogroup.
 
-##Human Population Expansion
+## Human Population Expansion
 
 Based on the phylogenetic analyses and genetic data, it is evident that human populations have undergone significant migrations and expansions over the millennia. The age estimates of Mitochondrial Eve, ranging from 100,000 to 200,000 years, suggest that our common maternal ancestor lived during a period when modern humans were beginning to migrate out of Africa.
 
