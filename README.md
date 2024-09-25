@@ -35,7 +35,7 @@ Determining the average rate of mitochondrial mutations is not easy, even with s
 
 By adding new fasta files to the Human folder, we will repeat all the actions from point 1 and obtain the following tree:
 
-![Описание изображения](Images/tree_with_bootstrap\ \(Human\ \+\ Neanderthal\ \+\ Denisovan\).png)
+![Описание изображения](Images/3.png)
 
 From the tree, it can be seen that the most recent Neanderthal in the dataset is KX198087.1 (GoyetQ305-4 Neanderthal).
 Repeating the actions from point 2, but with the script Neanderthal_age.ipynb (located in the Code folder) for KX198087.1, we obtain the following data, which is also close to reality:
@@ -49,6 +49,6 @@ Repeating the actions from point 2, but with the script Neanderthal_age.ipynb (l
 
 Taking mitochondrial genome data from a random person from GeneBank, we will repeat the actions from point 1 and obtain the following tree:
 
-![Описание изображения](Images/tree_with_bootstrap_human_from_genebank_draw.png)
+![Описание изображения](Images/4.png)
 
 From it, it is clear that the person belongs to the same haplogroup as...
