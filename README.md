@@ -25,7 +25,6 @@ We conclude that Eve originated from Africa (Yes, this is a discovery!).
 We will determine the approximate age of Eve using the script Eve_age.ipynb (located in the Code folder), which calculates the number of mutations between haplogroup L1c1d and the other haplogroups, selects the highest value from the results, and multiplies it by the average rate of mitochondrial mutations.
 Determining the average rate of mitochondrial mutations is not easy, even with sources—the data varies depending on the method and source—ranging from 1,000 to 15,000 years per mutation. Moreover, the method for calculating Eve's age should be more complex than just multiplying two numbers—mutations in mitochondria occur at different rates depending on the location in the genome (coding/non-coding regions, etc.). However, I decided not to complicate it and took the average from all sources — 3,000 years per mutation. The obtained data is close to reality:
 
-|-------------------------------------|----------------|
 | Maximum number of mutations          | 96             |
 | Estimated age of Mitochondrial Eve  | 192,000 years  |
 
