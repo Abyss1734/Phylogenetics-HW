@@ -51,4 +51,6 @@ Taking mitochondrial genome data from a random person from GeneBank, we will rep
 
 ![Описание изображения](Images/4.png)
 
+![Описание изображения](Images/2.png)
+
 From it, it is clear that the person belongs to the same haplogroup as...
