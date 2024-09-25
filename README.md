@@ -47,7 +47,7 @@ Repeating the actions from point 2, but with the script Neanderthal_age.ipynb (l
 
 ## 4. Place the particular human sample on the obtained tree.
 
-Taking mitochondrial genome data from a random person from GeneBank, we will repeat the actions from point 1 and obtain the following tree:
+Taking mitochondrial genome data from a random person from GeneBank (HM156694.1), we will repeat the actions from point 1 and obtain the following tree:
 
 ![Описание изображения](Images/4.png)
 
